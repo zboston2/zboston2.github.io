@@ -7,9 +7,9 @@ function Redirect1() {
 }
 
 function Redirect2() {
-    window.location = "https://google.com"
+    window.location = "index2.html"
 }
 
 function Redirect3() {
-    window.location = "https://google.com"
+    window.location = "index3.html"
 }
